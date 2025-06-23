@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-@mohak--gupta-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/mohak_G05">
-    <img src="https://img.shields.io/badge/GitHub-@mohak_G05-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-@Mohak_05-black?style=for-the-badge&logo=github">
   </a>
   <a href="mailto:mohakgupta210605@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mohakgupta210605@gmail.com-red?style=for-the-badge&logo=gmail">
@@ -81,8 +81,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohak_G05&show_icons=true&theme=tokyonight&border_radius=12" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohak_G05&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohak_05&show_icons=true&theme=tokyonight&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak_05&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
