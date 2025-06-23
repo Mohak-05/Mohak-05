@@ -1,7 +1,7 @@
 <!-- ⚡ EPIC GitHub README for Mohak Gupta -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Mohak+Gupta!;Computer+Science+Engineering+Student+%7C+Always+Learning+%7C+MUN+Enthusiast;DSA+%E2%9C%94%EF%B8%8F+GenAI+%E2%9C%94%EF%B8%8F+System+Design+%E2%9C%94%EF%B8%8F" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Mohak+Gupta!;CSE+Undergrad+%7C+Always+Learning+%7C+MUN+Enthusiast;DSA+%E2%9C%94%EF%B8%8F+GenAI+%E2%9C%94%EF%B8%8F+System+Design+%E2%9C%94%EF%B8%8F" alt="Typing animation" />
 </h1>
 
 <p align="center">
