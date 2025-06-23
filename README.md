@@ -33,6 +33,8 @@
 📧 mohakgupta210605@gmail.com
 ---
 
+---
+
 ## 💻 Tech Stack
 
 <p align="center">
@@ -106,3 +108,4 @@
 <footer align="center">
   💙 Made with love by <strong>Mohak Gupta</strong> • Always Building • Always Learning
 </footer>
+
