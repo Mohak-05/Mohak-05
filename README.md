@@ -1,72 +1,108 @@
-# 👋 Hi, I'm Mohak Gupta!
+<!-- ⚡ EPIC GitHub README for Mohak Gupta -->
 
-🎓 **B.Tech CSE Student** | 🧠 Passionate about Algorithms, System Design & Programming  
-🧰 Skilled in **C, C++, Python, Java** | 🗣️ **MUN Enthusiast** | 🚀 Always Learning & Innovating
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Mohak+Gupta!;B.Tech+CSE+Student+%7C+Always+Learning+%7C+MUN+Enthusiast;DSA+%E2%9C%94%EF%B8%8F+GenAI+%E2%9C%94%EF%B8%8F+System+Design+%E2%9C%94%EF%B8%8F" alt="Typing animation" />
+</h1>
 
----
-
-## 🔍 LeetCode Profile: [mohak_G05](https://leetcode.com/u/mohak_G05/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohak_G05?ext=contest&theme=dark)
-
-- 👨‍💻 **237 problems solved** out of 3595  
-- 🟢 **Easy:** 119 • 🟠 Medium: 106 • 🔴 Hard: 12  
-- 🧠 Contest Rating: **1468**  
-- 🌍 Global Ranking: **387,484 / 707,963**  
-- 🥇 Top Percentile: **55.26%**  
-- 🏷️ Most Used Languages: Python (209), C (30), C++ (1)  
-- 📅 **554 submissions** in past year, max streak: 18 days  
-- 🏅 Badge: `50 Days Badge 2025`
-
----
-
-## 🧾 Certifications
-
-### 📌 **Google Cloud Skill Boost**
-- ✅ [Gemini for Google Cloud Learning Path](https://www.linkedin.com/learning/certificates/) *(Issued Jun 2025)*  
-  _Built multimodal GenAI apps using Vertex AI, Streamlit, and Gemini APIs_
-
-- ✅ [Generative AI for Developers](https://www.linkedin.com/learning/certificates/) *(Issued Jun 2025)*  
-  _Completed a multimodal challenge with Gemini on RAG & document analysis_
-
-- ✅ [Introduction to Generative AI Learning Path](https://www.linkedin.com/learning/certificates/) *(Issued Jun 2025)*  
-  _Designed prompts, integrated Gemini with apps, and mastered few-shot learning_
+<p align="center">
+  <a href="https://leetcode.com/u/mohak_G05/">
+    <img src="https://img.shields.io/badge/LeetCode-@mohak_G05-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mohak--gupta/">
+    <img src="https://img.shields.io/badge/LinkedIn-@mohak--gupta-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/mohak_G05">
+    <img src="https://img.shields.io/badge/GitHub-@mohak_G05-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:mohakgupta210605@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mohakgupta210605@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-### 🧠 **IBM SkillsBuild**
-- ✅ [Getting Started with Artificial Intelligence](https://www.credly.com/badges) *(Issued Jun 2025)*  
-  _AI & ML fundamentals, use cases, and ethical AI systems_
+## ⚡ About Me
 
-- ✅ [Journey to Cloud: Envisioning Your Solution](https://www.credly.com/badges) *(Issued Jun 2025)*  
-  _Learned cloud transformation strategies and cloud-native architecture_
+
+🎓 B.Tech CSE Student  
+🧠 Obsessed with Algorithms, System Design & Generative AI  
+🧰 Skilled in C, C++, Python, Java  
+🗣️ MUN Delegate | AI Explorer | Fast Learner  
+📍 Based in India  
+📞 +91 8657074838  
+📧 mohakgupta210605@gmail.com
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-### 📃 [Darwinbox Certified Practitioner](https://certificates.darwinbox.com/a9ac055e-eb4a-4cb1-b29e-0a4f6ab899e4) *(Valid till Sep 2025)*  
-_HRMS admin workflows, document management, and ESS/MSS configurations_
+## 🧠 Learning & Certifications
+
+- 🚀 **Gemini on Google Cloud**  
+  Built GenAI apps using Streamlit, Vertex AI, and prompt design
+
+- 🧪 **RAG & Prompt Engineering**  
+  Multimodal document reasoning with Gemini
+
+- 🧱 **IBM AI & Cloud**  
+  ML basics, AI ethics, and cloud-native architectures
+
+> 📜 Issued June 2025 | View all badges via [LinkedIn »](https://www.linkedin.com/in/mohak--gupta/)
 
 ---
 
-## 📌 What I'm Up To
-- 🔁 Brushing up DSA daily on LeetCode  
-- 🔧 Building projects with Python, C++, and Java  
-- 💬 Exploring Prompt Engineering and GenAI apps  
-- ✍🏻 Writing blogs on recursion and algorithm design  
-- 🌍 Attending MUNs and tech conferences
+## ⚔️ LeetCode Arena
+
+- ✅ **237 problems solved**
+- 📊 **Contest Rating:** 1468
+- 🟢 Easy: 119 • 🟠 Medium: 106 • 🔴 Hard: 12
+- 🧠 Languages: Python, C, C++
+- 🏅 Badge: *50 Days Badge 2025*
+
+🔗 [Live Profile →](https://leetcode.com/u/mohak_G05/)
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohak--gupta/)  
-📧 Email: `mohakgupta.cse@gmail.com` *(if different, replace it)*  
-🏡 Location: India
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohak_G05&show_icons=true&theme=tokyonight&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohak_G05&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
-#### 🧩 Let’s learn, build, and grow together!
+## 🌱 Currently Working On
+
+- 🧩 Brushing up advanced DSA (Graphs, DP, Greedy)  
+- 🧪 Building GenAI-based tools using Streamlit + Gemini  
+- ✍️ Writing & sharing learnings on recursion and LLMs  
+- 🎯 Applying for internships (Summer '26)  
+- 🌍 Attending MUNs & tech conferences
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</p>
+
+---
+
+<h3 align="center">✨ Let's Connect & Code the Future!</h3>
 
 <footer align="center">
-  Built with 💙 by Mohak Gupta • Passionate Learner | Problem Solver | Future Engineer
+  💙 Made with love by <strong>Mohak Gupta</strong> • Always Building • Always Learning
 </footer>
