@@ -6,18 +6,19 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/mohak_G05/">
-    <img src="https://img.shields.io/badge/LeetCode-@mohak_G05-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/mohak--gupta/">
-    <img src="https://img.shields.io/badge/LinkedIn-@mohak--gupta-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/mohak_G05">
-    <img src="https://img.shields.io/badge/GitHub-@Mohak_05-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/Mohak_05">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:mohakgupta210605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohakgupta210605@gmail.com-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
 
 ---
 
