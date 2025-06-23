@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/mohak--gupta/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Mohak_05">
+  <a href="https://github.com/Mohak-05">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:mohakgupta210605@gmail.com">
